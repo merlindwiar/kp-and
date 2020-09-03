@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rounded_disable.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-xhdpi\\rounded_disable.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_poliwangi.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable\\logo_poliwangi.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_password.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-anydpi\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_password.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-hdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_btn_login.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-anydpi\\btn_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_email.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-anydpi\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_telpon.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-mdpi\\ic_telpon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_password.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_telpon.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-anydpi\\ic_telpon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_telpon.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-hdpi\\ic_telpon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_telpon.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_telpon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login__s_m_s.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\layout\\activity_login__s_m_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_telpon.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_telpon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\LabApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

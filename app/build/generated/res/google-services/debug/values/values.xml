@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">914619066887-jhmpjtrcnc8knoea5qqrhc1bs1i9vvof.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://labapp-75d9d.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">914619066887</string>
+    <string name="google_api_key" translatable="false">AIzaSyD4fjGv5msebMD0kjtTYnZK-7WXd6i0Rjk</string>
+    <string name="google_app_id" translatable="false">1:914619066887:android:1a5cb21a8a3be5178618a2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD4fjGv5msebMD0kjtTYnZK-7WXd6i0Rjk</string>
+    <string name="google_storage_bucket" translatable="false">labapp-75d9d.appspot.com</string>
+    <string name="project_id" translatable="false">labapp-75d9d</string>
+</resources>
